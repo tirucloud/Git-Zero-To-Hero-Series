@@ -80,7 +80,7 @@ git log --oneline
 git show HEAD
 ```
 ✅ Day 1 Output Checklist
-By the end of today, you should:
+By the end of today, you should: <br>
 ✔️ Know what Git is and how it works conceptually <br>
 ✔️ Have Git installed and configured <br>
 ✔️ Have created your first repository <br>
