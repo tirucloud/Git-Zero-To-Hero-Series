@@ -81,7 +81,7 @@ git show HEAD
 ```
 ✅ Day 1 Output Checklist
 By the end of today, you should:
-✔️ Know what Git is and how it works conceptually
-✔️ Have Git installed and configured
-✔️ Have created your first repository
-✔️ Be able to track, commit, and view file changes
+- ✔️ Know what Git is and how it works conceptually
+- ✔️ Have Git installed and configured
+- ✔️ Have created your first repository
+- ✔️ Be able to track, commit, and view file changes
