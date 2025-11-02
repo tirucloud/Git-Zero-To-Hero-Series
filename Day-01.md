@@ -1,4 +1,4 @@
-# Day-01: Git-Zero-To-Hero_series
+# Day-01: Git-Zero-To-Hero-series
 
 ## Git Fundamentals & Setup (2 hours)
 ### 🕐 Hour 1 — Core Concepts
